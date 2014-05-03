@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:calligra="http://www.calligra.org/2005/" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:delta="http://www.deltaxml.com/ns/track-changes/delta-namespace" xmlns:split="http://www.deltaxml.com/ns/track-changes/split-namespace" xmlns:ac="http://www.deltaxml.com/ns/track-changes/attribute-change-namespace" office:version="1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <office:automatic-styles>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="P2" style:parent-style-name="Standard" style:family="paragraph" style:master-page-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="center" style:line-break="strict" style:page-number="auto" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:font-weight="bold" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P3" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="center" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:font-weight="bold" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P4" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="center" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P5" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P6" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:font-weight="bold" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P7" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="36.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P8" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P9" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="36.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" fo:text-indent="-18.000000000000000pt" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P10" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="36.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:font-weight="bold" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P11" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P12" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L3">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P13" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P14" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L5">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P15" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P16" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L7">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P17" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L8">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P18" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L9">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P19" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L10">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P20" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L112">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P21" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L122">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P22" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L13">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P23" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L14">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P24" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L15">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P25" style:parent-style-name="Standard" style:family="paragraph" style:list-style-name="L16">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="justify" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P26" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="end" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:language="en"/>
+  </style:style>
+  <style:style style:name="P27" style:parent-style-name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.000000000000000pt" fo:margin-right="0.000000000000000pt" fo:text-align="center" style:line-break="strict" style:punctuation-wrap="hanging" style:tab-stop-distance="36.000000000000000pt" style:text-autospace="ideograph-alpha"/>
+   <style:text-properties fo:country="US" fo:font-family="Liberation Sans" fo:font-size="10.000000000000000pt" fo:font-style="italic" fo:language="en"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#99ccff" draw:stroke="solid" draw:stroke-linejoin="bevel" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="middle" draw:wrap-influence-on-position="once-concurrent" fo:margin="0.000000000000000pt" style:flow-with-text="false" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:wrap="run-through" style:wrap-contour="false" style:wrap-dynamic-threshold="0.000000000000000pt" svg:fill-rule="evenodd" svg:stroke-color="#000000" svg:stroke-linecap="butt" svg:stroke-opacity="1" svg:stroke-width="0.500000000000000pt"/>
+  </style:style>
+  <text:list-style style:name="L11" style:display-name="L1">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L12" style:display-name="L1">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L21" style:display-name="L2">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L31" style:display-name="L3">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L41" style:display-name="L4">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L51" style:display-name="L5">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L61" style:display-name="L6">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L71" style:display-name="L7">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L81" style:display-name="L8">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L91" style:display-name="L9">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L101" style:display-name="L10">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L111" style:display-name="L11">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L121" style:display-name="L12">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L131" style:display-name="L13">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L141" style:display-name="L14">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L151" style:display-name="L15">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L161" style:display-name="L16">
+   <text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="I" text:level="1" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="36.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="36.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="2" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="54.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="54.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="3" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="72.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="72.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="4" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="90.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="90.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="5" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="108.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="108.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="6" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="126.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="126.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="7" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="144.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="144.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="8" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="162.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="162.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="9" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="180.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="180.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number><text:list-level-style-number text:start-value="1" text:display-levels="1" style:num-format="1" text:style-name="Numbering_20Symbols" text:level="10" style:num-suffix=".">
+ <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="start"><style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="198.00000000000pt" fo:text-indent="-18.00000000000pt" fo:margin-left="198.00000000000pt"/></style:list-level-properties>
+</text:list-level-style-number>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:body>
+  <office:text>
+   <text:tracked-changes text:track-changes="false"/>
+   <text:p text:style-name="P2">ASSOCIAÇÃO SOFTWARE LIVRE SANTA CATARINA</text:p><text:p text:style-name="P3"/><text:p text:style-name="P4"/><text:p text:style-name="P3">ESTATUTO SOCIAL</text:p><text:p text:style-name="P3"/><text:p text:style-name="P3">CAPÍTULO I – DA DENOMINAÇÃO, SEDE E FINALIDADES</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art 1º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">Associação Software Livre Santa Catarina</text:span>, doravante designada pela sigla SOLISC, é uma pessoa jurídica de direito privado, sem fins econômicos, cujo prazo de duração é indeterminado, com sede e foro na cidade de Florianópolis, Santa Catarina<text:span text:style-name="T1">.</text:span></text:p><text:p text:style-name="P6"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>exercerá o direito de possuir e utilizar uma marca de fantasia, na forma da lei, buscando assim melhor atender às suas finalidades.</text:p><text:p text:style-name="P7"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art 2º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>tem sua sede na Servidão Feliciano Martins Vieira, 49, apartamento 1, CEP 88034-130, Bairro Itacorubi, Florianópolis, Santa Catarina.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art 3º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>tem por finalidades:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L11" xml:id="list-44180617-3bf3-46e9-a6ef-20027e8685dc">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P8">Difusão do Software Livre e de Código Aberto;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P8">Promoção do desenvolvimento econômico, social e inclusão digital;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P8">Experimentação de novos modelos sócio educativos e sistemas alternativos de produção e distribuição de Softwares Livres e de Código Aberto;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P8">Edição de publicações, informativos, revistas, jornais e demais materiais informativos e produção de vestuário, acessórios e brindes referentes ao software livre;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P8">Estudos, pesquisas, desenvolvimento de tecnologias alternativas, realização de eventos, produção e divulgação de informações e conhecimentos técnicos e científicos em software livre;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VI.</text:number>
+   <text:p text:style-name="P8">Desenvolver programas de educação profissional, qualificação e requalificação profissional voltado para as carências da população;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VII.</text:number>
+   <text:p text:style-name="P8">Promoção do voluntariado;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VIII.</text:number>
+   <text:p text:style-name="P8">Promoção da ética, da paz, da cidadania, dos direitos humanos, da liberdade de expressão, da democracia e de outros valores universais e o combate a qualquer forma de discriminação sexual, religiosa, econômica e racial.</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IX.</text:number>
+   <text:p text:style-name="P8">Proporcionar uma aproximação entre hackers, desenvolvedores, artistas e produtores culturais, buscando o amadurecimento do Software Livre, de forma que ele contribua para a construção de uma sociedade baseada nos conceitos da “Cultura Livre”. Foi debatido e aprovada a inclusão deste inciso ao artigo terceiro do estatuo. Foi também proposto mais um inciso ao mesmo artigo;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>X.</text:number>
+   <text:p text:style-name="P8">Desenvolver programas de educação profissional, capacitação, qualificação e requalificação voltados para profissionais que já trabalham com Software Livre;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>XI.</text:number>
+   <text:p text:style-name="P8">Promover a aproximação dos grupos de usuários e incentivar a criação de novos grupos;</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:list text:style-name="L12" text:continue-list="list-44180617-3bf3-46e9-a6ef-20027e8685dc" xml:id="list-af14505c-f31d-413c-8752-976dfebf385d">
+  <text:list-header>
+   <text:number/>
+   <text:p text:style-name="P9"><text:span text:style-name="T1">§ único</text:span>: A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>não distribui entre seus associados, conselheiros, diretores, empregados ou doadores eventuais excedentes operacionais, brutos ou líquidos, dividendos, bonificações, participações ou parcelas do seu patrimônio, auferidos mediante o exercício de suas atividades, e os aplica integralmente na consecução do seu objetivo social.</text:p>
+  </text:list-header>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T1">Art. 4º</text:span><text:s/>– No desenvolvimento de suas atividades, a<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>observará os princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e da eficiência e não fará qualquer discriminação de raça, cor, gênero, orientação sexual, religiosa e política.</text:p><text:p text:style-name="P6"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: Para cumprir seu propósito a entidade atuará por meio da execução direta de projetos, programas ou planos de ações, da doação de recursos físicos, humanos e financeiros, ou prestação de serviços intermediários de apoio a outras organizações sem fins econômicos e a órgãos do setor público que atuam em áreas afins.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 5º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>terá um Regimento Interno que, aprovado pela Assembléia geral, disciplinará o seu funcionamento.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 6º</text:span><text:s/>– A fim de cumprir suas finalidades a instituição se organizará em tantas unidades de prestação de serviços, quantas se fizerem necessárias, as quais se regerão pelas disposições estatutárias.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P3">CAPÍTULO II - DOS ASSOCIADOS</text:p><text:p text:style-name="P4"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art 7º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>compreende três categorias de associados: fundadores, efetivos e voluntários.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ 1º</text:span><text:s/>– Associados fundadores são todos os participantes da Assembléia de Fundação da<text:s/><text:span text:style-name="T1">SOLISC.</text:span></text:p><text:p text:style-name="P10"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ 2º</text:span><text:s/>– Associados efetivos são aqueles que são convidados a ingressar no quadro social por dois ou mais associados, aprovados pelo Conselho Geral e referendados pela Assembléia Geral, exercendo direito de votar e ser votado a partir da próxima Assembléia Geral.</text:p><text:p text:style-name="P7"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ 3º</text:span><text:s/>– Associados voluntários são aqueles que participam efetivamente em reuniões e atividades da<text:s/><text:span text:style-name="T1">SOLISC</text:span>, aprovados pelo Conselho Geral.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 8º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>reúne um número ilimitado de associados admitidos pelo Conselho Geral e referendado pela Assembléia Geral.</text:p><text:p text:style-name="P6"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: Somente pessoas físicas são admitidas no quadro de associados da<text:s/><text:span text:style-name="T1">SOLISC</text:span>.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art 9º</text:span><text:s/>– A<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>terá colaboradores, aceitos pelo Conselho Geral, que contribuirão financeiramente com a associação ao menos uma vez ao ano.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: estes colaboradores não integram o quadro de associados e precisam manifestar sua intenção à<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>por escrito.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 10º</text:span><text:s/>– São direitos dos associados efetivos:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L21" xml:id="list-dc2b5cc1-1e24-4ba0-a48c-df25dc210c3d">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P11">Votar e ser votado para cargos eletivos;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P11">Participar das Assembléias Gerais com direito a voz e voto;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P11">Participar de todas as atividades a que a entidade esteja direta ou indiretamente ligada;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P11">Participar das reuniões abertas do Conselho Geral, com direito de voz;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P11">Convocar a Assembléia Geral.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T1">Art. 11º</text:span><text:s/>– São direitos dos associados voluntários:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L31" xml:id="list-c8f6136c-38bb-4ab6-8e1d-d7e03f16cdda">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P12">Participar de todas as atividades que a entidade esteja direta ou indiretamente ligada;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P12">Participar das assembléias gerais, com direito de voz;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P12">Participar das reuniões abertas do Conselho Geral, com direito de voz.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 12º</text:span><text:s/>– São deveres de todos os associados:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L41" xml:id="list-e084a524-8d99-4d0b-bec2-134757bebebd">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P13">Cumprir as disposições estatutárias e regimentais;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P13">Colaborar com a coordenação geral na consecução dos trabalhos e objetos da<text:span text:style-name="T1"><text:s/>SOLISC.</text:span></text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 13º</text:span><text:s/>– São deveres adicionais dos associados efetivos:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L51" xml:id="list-a50cceb0-0d68-403a-80f3-11ee62b80d92">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P14">Contribuir financeiramente com a entidade, pagando o valor mínimo fixado pela Assembléia Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P14">Comparecer regularmente às assembléias gerais e outros atos da entidade.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 14º</text:span><text:s/>– Os associados da<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>poderão ser excluídos pelo Conselho Geral, cabendo sempre da decisão, recurso a Assembléia Geral e respeitado o direito de defesa:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L61" xml:id="list-77e4c785-868b-4362-85de-6ea1f6a18de6">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P15">Pelo não comparecimento, sem motivo justificado, por dois anos consecutivos, às Assembléias Gerais;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P15">Quando o associado praticar atos contrários ao seu dever para com a entidade e/ou encontrar-se inadimplente;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P15">Quando for reconhecida a existência de motivos graves ou o associado se afastar dos objetivos da entidade.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 15º</text:span><text:s/>– A demissão do associado será feita:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L71" xml:id="list-9328d520-8a02-48fb-acaf-f0d59070d1b6">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P16">Por requerimento deste;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P16">Por dissolução da pessoa jurídica;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P16">Por morte do associado;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P16">Por incapacidade civil não suprida.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 16º</text:span><text:s/>– Os associados não respondem pelos encargos da entidade, nem pessoalmente, nem solidariamente, nem subsidiariamente.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 17º</text:span><text:s/>– Nenhum associado poderá ser impedido de exercer direito ou função que lhe tenha sido legitimamente conferido, a não ser nos casos e pela forma previstos na lei ou no estatuto.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P3">CAPÍTULO III – DA ADMINISTRAÇÃO</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 18º</text:span><text:s/>– São órgãos da administração:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L81" xml:id="list-a547ae05-cb22-4efb-a4b6-927e1794c852">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P17">A Assembléia Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P17">O Conselho Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P17">O Conselho Fiscal.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P6"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: a<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>não remunera, sob qualquer forma, os cargos de seu Conselho Geral e do Conselho Fiscal, cujas atuações são inteiramente gratuitas.</text:p><text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T1">Art. 19º</text:span><text:s/>– A Assembléia Geral, órgão soberano da<text:s/><text:span text:style-name="T1">SOLISC</text:span>, se constituirá de todos os associados efetivos, quites com suas obrigações estatutárias, reunindo-se ordinariamente no segundo semestre de cada ano e, extraordinariamente por convocação do Conselho Geral, ou por um quinto dos associados.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ 1º</text:span><text:s/>– A assembléia será convocada com antecedência de 15 (quinze) dias corridos, por correspondência eletrônica (e-mail) dirigida aos associados e por meio de edital afixado na sede da entidade e publicado no sítio da entidade na Internet.</text:p><text:p text:style-name="P7"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ 2º</text:span><text:s/>– A instalação da assembléia Geral depende de um quorum mínimo de dois terços dos associados em primeira convocação, e, meia hora depois, em segunda e última convocação com qualquer quorum.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 20º</text:span><text:s/>– A entidade adotará práticas de gestão administrativa, necessárias e suficientes, a coibir a obtenção, de forma individual ou coletiva, de benefícios e vantagens pessoais, em decorrência da participação nos processos decisórios.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 21º</text:span><text:s/>– Compete à assembléia Geral:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L91" xml:id="list-2ba5d1d7-5518-414a-9e87-39edeb423838">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P18">Eleger o Conselho Geral e o Conselho fiscal;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P18">Destituir o Conselho Geral e o Conselho Fiscal, com a concordância de dois terços dos associados, presentes em assembléia convocada especialmente para este fim, não podendo tal deliberação ocorrer sem a maioria absoluta dos associados em primeira convocação ou um terço nas convocações seguintes;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P18">Alterar o presente estatuto, com a concordância de dois terços dos associados, presentes em assembléia convocada especialmente para este fim, não podendo tal deliberação ocorrer sem a maioria absoluta dos associados em primeira convocação ou um terço nas convocações seguintes;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P18">Aprovar a prestação de contas;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P18">Aprovar a proposta de programação anual <text:s/>e orçamento da<text:s/><text:span text:style-name="T1">SOLISC</text:span>, apresentada pelo Conselho Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VI.</text:number>
+   <text:p text:style-name="P18">Referendar a admissão, demissão e exclusão de associados decidida pelo Conselho Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VII.</text:number>
+   <text:p text:style-name="P18">Decidir sobre a conveniência de alienar, transigir, hipotecar ou permutar bens patrimoniais.</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VIII.</text:number>
+   <text:p text:style-name="P18">Fixar anualmente a contribuição dos associados;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IX.</text:number>
+   <text:p text:style-name="P18">Aprovar o regimento interno, proposto pelo Conselho Geral.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 22º</text:span><text:s/>– Compõem o Conselho Geral, eleito pela Assembléia Geral, um Coordenador Geral, um Coordenador Adjunto, um Coordenador Financeiro, e 2 suplentes que assumirão na ordem de eleição, com mandato de dois anos, permitido a reeleição por um período e a observância da renovação de no mínimo um terço do Conselho Geral no final de cada mandato.</text:p><text:p text:style-name="P6"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 23º<text:s/></text:span>– Compete ao Conselho Geral:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L101" xml:id="list-720568df-2735-4afa-a74e-24f5e2f66666">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P19">Elaborar e submeter à Assembléia Geral a proposta orçamentária e de programação da<text:s/><text:span text:style-name="T1">SOLISC</text:span>;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P19">Elaborar o regimento interno da<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>e submetê-lo a Assembléia Geral para aprovação;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P19">Elaborar para conhecimento da Assembléia Geral, um relatório anual das atividades desenvolvidas pela entidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P19">Decidir sobre admissão, demissão e exclusão de associados, com a posterior referendum da Assembléia Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P19">Gerir o patrimônio da<text:s/><text:span text:style-name="T1">SOLISC</text:span>;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VI.</text:number>
+   <text:p text:style-name="P19">Contratar e dispensar empregados;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VII.</text:number>
+   <text:p text:style-name="P19"><text:soft-page-break/>Convocar a Assembléia Geral ordinária e extraordinária;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VIII.</text:number>
+   <text:p text:style-name="P19">Representar a<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>em reuniões com entidades públicas e privadas;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IX.</text:number>
+   <text:p text:style-name="P19">Tomar decisões de cunho político institucional sempre por maioria absoluta;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>X.</text:number>
+   <text:p text:style-name="P19">Coordenar as atividades dos programas em desenvolvimento;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>XI.</text:number>
+   <text:p text:style-name="P19">Reunir-se ordinariamente uma vez a cada dois meses, ou extraordinariamente por convocação do Presidente.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: em caso de vacância no Cargo de Vice-Presidente ou Diretor Financeiro, o Conselho Geral convocará o suplente e elegerá entre seus membros o substituto para o cargo.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 24º</text:span><text:s/>– O Conselho Fiscal é composto por dois titulares e 1 suplente, com mandato coincidente com o mandato da Presidência, permitida somente uma reeleição.</text:p><text:p text:style-name="P6"/><text:p text:style-name="P7"><text:span text:style-name="T1">§ único</text:span>: Em caso de vacância, o mandato será assumido pelo suplente, até o seu término.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 25º</text:span><text:s/>– Compete ao Conselho Fiscal:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L111" xml:id="list-eec802bf-0741-4366-822f-b9bfa60dff32">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P20">Examinar os livros de escrituração da entidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P20">Examinar os balanços e relatórios de desempenho financeiro e contábil e sobre as operações patrimoniais realizadas, emitindo pareceres sobre os mesmos para organismos superiores da Entidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P20">Requisitar ao Diretor Financeiro, a qualquer tempo, documentação comprobatória das operações econômico-financeiras realizadas pela entidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P20">Acompanhar o trabalho de eventuais auditores externos independentes;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P20">Convocar Extraordinariamente a Assembléia Geral.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P6"/><text:p text:style-name="P5"><text:span text:style-name="T1">§ único</text:span>: o Conselho Fiscal se reunirá ordinariamente a cada seis meses e extraordinariamente, sempre que necessário.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 26º</text:span><text:s/>– Compete ao Presidente:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L121" xml:id="list-a91bcde8-fe63-4c6a-9016-415c1e23de18">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P21">Representar a<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>judicial e extra judicialmente;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P21">Cumprir e fazer cumprir este estatuto e o regimento interno;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P21">Convocar e presidir a Assembléia Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P21">Convocar e presidir as reuniões do Conselho Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P21">Supervisionar e administrar os programas e projetos desenvolvidos;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VI.</text:number>
+   <text:p text:style-name="P21">Assinar convênios, contratos, documentos financeiros e emitir cheques em conjunto com o Diretor Financeiro.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 27º</text:span><text:s/>– Compete ao Vice-Presidente:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L131" xml:id="list-eb27fcfb-ff2f-464b-9823-2960ae95db9d">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P22">Substituir o Presidente em suas faltas e impedmentos;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P22">Assumir mandato em caso de vacância, até a realização da Assembléia Geral;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P22">Assinar convênios, contratos, documentos financeiros e emitir cheques, substituindo o Presidente ou com o Diretor Financeiro.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 28º</text:span><text:s/>– Compete ao Diretor Financeiro:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L141" xml:id="list-b4b55d6d-0b72-4284-bef9-581e6ee8594b">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P23">Arrecadar as contribuições dos associados, rendas, auxílios e donativos;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P23">Apresentar relatórios de receitas e despesas, sempre que solicitado;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P23"><text:soft-page-break/>Apresentar ao conselho fiscal a escrituração da entidade, os relatórios de desempenho financeiro, contábil e sobre as operações patrimoniais realizadas;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P23">Supervisionar a contabilidade da entidade e conservar sob sua guarda e responsabilidade os documentos contábeis da entidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P23">Assinar convênios, contratos, documentos financeiros e emitir cheques em conjunto com o Presidente ou com o Vice-Presidente.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P3">CAPÍTULO IV – DOS RECURSOS FINANCEIROS</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 29º</text:span><text:s/>– Os recursos financeiros necessários à manutenção da instituição poderão ser</text:p><text:p text:style-name="P5">obtidos por:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L151" xml:id="list-435fa93e-b2c5-4c7f-a3dc-e5e0f447094e">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P24">Termos de Parcerias, Convênios e Contratos firmados com o Poderes Públicos para financiamento de projetos na sua área de atuação;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P24">Contratos e acordos <text:s/>firmados com empresas e agências nacionais e internacionais;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P24">Doações, Legados e Heranças;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P24">Rendimento de aplicações de seus ativos financeiros e outros, pertinentes ao patrimônio sob a sua administração;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>V.</text:number>
+   <text:p text:style-name="P24">Contribuições dos Associados;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>VI.</text:number>
+   <text:p text:style-name="P24">Recebimentos de direitos autorais, direito de imagem e direito de uso de marcas registradas em nome da associação.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P3">CAPÍTULO V – DO PATRIMÔNIO</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 30º</text:span><text:s/>– O patrimônio da<text:s/><text:span text:style-name="T1">SOLISC</text:span><text:s/>será constituído pelos bens imóveis, móveis, registrados em seu nome ou por ela adquiridos, por bens a ela destinada por pessoas físicas ou jurídica, doações, convênios e termo de parceria que celebrar.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 31º</text:span><text:s/>– Na hipótese da entidade obter e, posteriormente, perder a qualificação instituída pela lei 9790/99, os acervos patrimoniais disponíveis, adquiridos com recursos públicos durante o período em que perdurou aquela qualificação, será transferido a outra pessoa jurídica qualificada nos termos da mesma lei, preferencialmente com o mesmo objetivo social.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 32º</text:span><text:s/>– No caso de dissolução da entidade, o remanescente do seu patrimônio liquido, será destinado à outra entidade de fins não econômicos e com semelhante objetivo social.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P3">CAPÍTULO VI – DA PRESTAÇÃO DE CONTAS</text:p><text:p text:style-name="P6"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 33º</text:span><text:s/>- A prestação de contas da Entidade observará:</text:p><text:p text:style-name="P5"/><text:list text:style-name="L161" xml:id="list-b5e32bf7-59d5-45a4-a96e-146e8f1b0370">
+  <text:list-item>
+   <text:number>I.</text:number>
+   <text:p text:style-name="P25">Os princípios fundamentais de contabilidade e as normas brasileiras de contabilidade;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>II.</text:number>
+   <text:p text:style-name="P25">A publicidade, por qualquer meio eficaz, no encerramento do exercício fiscal, ao relatório de atividades e das demonstrações financeiras da entidade, incluindo certidões negativas de débitos junto ao INSS e ao FGTS, colocando-os à disposição para o exame de qualquer cidadão;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>III.</text:number>
+   <text:p text:style-name="P25">A realização de auditoria, inclusive por auditores externos independentes se for o caso, da aplicação dos eventuais recursos objeto de termo de parceria, conforme previsto em regulamento;</text:p>
+  </text:list-item>
+  <text:list-item>
+   <text:number>IV.</text:number>
+   <text:p text:style-name="P25">A prestação de contas de todos os recursos e bens de origem pública recebidos será feita, conforme determina o parágrafo único do art. 70 da Constituição Federal.</text:p>
+  </text:list-item>
+ </text:list><text:p text:style-name="P5"/><text:p text:style-name="P3"><text:soft-page-break/>CAPÍTULO VII – DAS DISPOSIÇÕES GERAIS</text:p><text:p text:style-name="P6"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 34º</text:span><text:s/>– A entidade só poderá ser extinta ou dissolvida por deliberação da Assembléia Geral, especialmente convocada para este fim, mediante o voto favorável de dois terços dos presentes desde que observado o quorum de metade mais um dos associados, quando se tornar impossível a continuação de suas atividades.</text:p><text:p text:style-name="P6"/><text:p text:style-name="P5"><text:span text:style-name="T1">Art. 35º</text:span><text:s/>– O presente Estatuto Social entra em vigor na data de sua aprovação.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P26">Florianópolis, 12 de novembro de 2013.</text:p><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P5"/><text:p text:style-name="P4"><draw:path draw:style-name="gr1" xml:id="shape-1" draw:id="shape-1" draw:z-index="0" svg:width="218.23920000000pt" svg:height="0.00000000000pt" svg:x="125.26560000000pt" svg:y="11.19600000000pt" svg:viewBox="0 0 218 0" text:anchor-type="paragraph" svg:d="M0 0L218.239 0" calligra:nodeTypes="cc"><draw:glue-point draw:id="4" svg:x="0.50000000000pt" svg:y="0.50000000000pt" draw:align="center"/><draw:glue-point draw:id="5" svg:x="0.50000000000pt" svg:y="0.50000000000pt" draw:align="center"/></draw:path></text:p><text:p text:style-name="P3">Klaibson Natal Ribeiro Borges</text:p><text:p text:style-name="P27">Coordenador Geral</text:p><text:p text:style-name="P27">RG: 2.428.322-3 SSP-SC</text:p><text:p text:style-name="P27"/><text:p text:style-name="P27"/><text:p text:style-name="P27"/>
+  </office:text>
+ </office:body>
+</office:document-content>
